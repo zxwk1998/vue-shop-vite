@@ -4,9 +4,6 @@
   </div>
 </template>
 
-<script>
-  export default {
-    name: 'App',
-    mounted() {},
-  }
+<script setup>
+// Vue 3 组合式 API
 </script>
